@@ -72,8 +72,6 @@ This project implements a basic visual odometry pipeline for a single camera fee
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Suggestions for enhancing robustness or adding features are welcome!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Built using OpenCV for computer vision tasks.
