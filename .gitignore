@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+.myenv/
+ENV/
+*.env/
+*.venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python compiled binary files
+*.pyd
+*.pyo
+
+# Ignore video files (if you are using them temporarily)
+*.mp4
+*.avi
