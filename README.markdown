@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a basic visual odometry pipeline for a single camera feed using Python. It processes video frames to detect and match ORB features, estimates camera motion via essential matrix decomposition, and visualizes the camera's trajectory in a separate matplotlib plot. The trajectory is saved as a PNG file (`trajectory.png`).
-
+![GIF](./gif.gif)
 ## Features
 - Real-time processing of video feed from a camera or video file.
 - ORB feature detection and matching for robust keypoint tracking.
